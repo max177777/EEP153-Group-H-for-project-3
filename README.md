@@ -1,7 +1,8 @@
 # EEP153-Group-H-for-project-3
 
-We are the Group H
-Our team:
+##We are the Group H !!!
+
+###Our team:
 
 Max Mingxuan Xu   (510)-603-0589  email: max_xu@berkeley.edu  Github: max177777
 
