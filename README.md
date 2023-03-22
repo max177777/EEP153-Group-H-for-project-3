@@ -1,4 +1,4 @@
-# EEP153-Group-H-for-project-3
+# EEP153-Team Mollie-for-project-3
 
 ## We are the Group H !!!
 
@@ -15,3 +15,4 @@ Ian Fife (385) 216-7263 email: ianfife@berkeley.edu      Github: ianfife1
 Xinyu Han (510)-520-0347 email: xinyuhan@berkeley.edu Github: xinyuhan3457
 
 ## Our goals:
+We are going to look at Niger and Nigeria since both of them are in West Africa. They have a similar culture and religious background, so that we can keep most things in constant to compare the real influenced factors to their food demand, such as income and population structure.
