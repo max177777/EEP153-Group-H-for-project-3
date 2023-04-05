@@ -24,6 +24,6 @@ We are going to look at Niger and Nigeria since both of them are in West Africa.
 
 2.Create the Estimation Demand System
 
-3.check their Nutritional content
+3.Check their Nutritional content
 
 4.Compare their results in our presentation
