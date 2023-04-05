@@ -21,6 +21,9 @@ We are going to look at Niger and Nigeria since both of them are in West Africa.
 ## Our Goal:
 
 1.Collect the data from Niger and Nigeria
+
 2.Create the Estimation Demand System
+
 3.check their Nutritional content
+
 4.Compare their results in our presentation
